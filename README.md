@@ -1,21 +1,30 @@
-# langara-chat
 
-> A Vue.js project
+## Live Chat with VUE.JS .
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+### `What is it?`
+This is the profuct of a 20hr tutorial going from basic to intermediate to create a web chat app using VUE and Firebase.
 
-# serve with hot reload at localhost:8080
-npm run dev
+### `Tech used for this project`
+Vue.Js
+Bootstrap
+Firebase
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+### `Why did I use this tech?`
+It was my first app created using vue.js and I wanted to see the capabilities of this framework. So far, It was good but I will move to React and try it.  
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### `Firebase`
+Firebase integration allowed me to have live chat without implementing subscriptions or websockets.
+
+
+### `Do you want to run this project?`
+
+Just donwload the project and run in using yarn start or npm start, after being installed. 
+
+If you want to see a live demo you find the link on my profiles
+
+www.linkedin.com/in/eduardolanda
+www.eduardolanda.ca
+
+## EDUARDO LANDA / FRONT-END/WEB DEVELOPER
